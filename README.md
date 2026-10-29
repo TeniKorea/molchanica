@@ -6,7 +6,7 @@
   <br />
 </h3>
 
-# Golang for Node.js Developers
+# TermChat
 
 > Examples of [Golang](https://golang.org/) examples compared to [Node.js](https://nodejs.org/) for learning
 
