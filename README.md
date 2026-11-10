@@ -6,7 +6,7 @@
   <br />
 </h3>
 
-# epidemic
+# GraphX
 
 > Examples of [Golang](https://golang.org/) examples compared to [Node.js](https://nodejs.org/) for learning
 
