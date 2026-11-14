@@ -6,7 +6,7 @@
   <br />
 </h3>
 
-# GraphX
+# feathr
 
 > Examples of [Golang](https://golang.org/) examples compared to [Node.js](https://nodejs.org/) for learning
 
